@@ -12,7 +12,7 @@ Basic CRUD app in Python and Flask.
   
   venv\Scripts\activate
   ```
-  *You might need to change the ExecutionPolicy to Unrestricted, so that you can run the script Activate.ps1*
+   *You might need to change the ExecutionPolicy to Unrestricted, so that you can run the script Activate.ps1*
   ```
   Set-ExecutionPolicy Unrestricted -scope Process
   ```
