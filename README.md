@@ -26,5 +26,5 @@ Basic CRUD app in Python and Flask.
   
   exit()
   ```
-  6. Run the app: python app.py
+  6. Run the app: `python app.py`
   
